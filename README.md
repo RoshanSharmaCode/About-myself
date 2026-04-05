@@ -18,10 +18,10 @@
 - ✅ Task Manager API (Node + Express)
 
 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=RoshanSharmaCode&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=RoshanSharmaCode&show_icons=true&theme=radical&cache_seconds=1800)
 
 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanSharmaCode&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanSharmaCode&layout=compact&theme=radical&cache_seconds=1800)
 
 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/roshansharma9379
