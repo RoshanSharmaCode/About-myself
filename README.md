@@ -18,8 +18,7 @@
 - ✅ Task Manager API (Node + Express)
 
 📊 GitHub Stats
-![GitHub Streak]
-(https://streak-stats.demolab.com?user=RoshanSharmaCode)
+![GitHub Streak](https://streak-stats.demolab.com?user=RoshanSharmaCode)
 
 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanSharmaCode&layout=compact&theme=radical&cache_seconds=1800)
