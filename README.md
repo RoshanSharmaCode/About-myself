@@ -1,25 +1,28 @@
-# Hi, I'm Roshan Sharma 👋
+## 👋 Hi, I'm Roshan Sharma
 
-💻 Full Stack Developer (JavaScript | React | Node.js | Express)
+🎓 B.Tech graduate in Information Science & Engineering from KNS Institute of Technology.
 
-🚀 About Me
-- Passionate about building web applications
-- Focused on backend + full stack development
-- Always learning and improving
+💻 Full Stack Developer with a strong interest in Frontend Development. I enjoy building responsive, user-friendly web applications and solving real-world problems through code.
 
-🛠️ Tech Stack
-- Frontend: React, HTML, CSS, JavaScript  
-- Backend: Node.js, Express  
-- Database: MongoDB  
-- Tools: Git, GitHub, Postman  
+### 🚀 Tech Stack
+- Frontend: React.js, JavaScript, HTML, CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, Postman, Vite, Vitest, VS Code
 
-📂 Projects
-- 🛒 Ecommerce Website (Full Stack)
-- ✅ Task Manager API (Node + Express)
+### 📌 Projects
+- 🛒 Amazon Storefront
+- 📋 RESTful Task Management API
+- 🤖 Interactive Chatbot Application
+- 🛍️ React-based E-Commerce Platform
 
-📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=RoshanSharmaCode)
+### 🌱 Currently Learning
+- Data Structures & Algorithms
+- Advanced React Patterns
+- Backend Architecture & APIs
 
-📫 Connect with Me
+### 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/roshansharma9379
-- Email: roshansharma9379@gmail.com
+- Email: roshansharma9379@email.com
+
+⚡ Passionate about creating clean, scalable, and efficient web applications while continuously learning new technologies.
