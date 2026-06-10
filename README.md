@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Roshan Sharma
 
-🎓 B.Tech graduate in Information Science & Engineering from KNS Institute of Technology.
-
 💻 Full Stack Developer with a strong interest in Frontend Development. I enjoy building responsive, user-friendly web applications and solving real-world problems through code.
 
 ### 🚀 Tech Stack
