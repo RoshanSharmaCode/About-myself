@@ -5,8 +5,8 @@
 💻 I'm a Frontend & Full Stack Developer passionate about building responsive and user-friendly web applications.
 
 ## 🚀 Tech Stack
-- Frontend: HTML, CSS, JavaScript, React.js
-- Backend: Node.js, Express.js, Bootstrap
+- Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
+- Backend: Node.js, Express.js
 - Database: MongoDB, MySQL
 - Design Tools: Figma 
 - Tools: Git, GitHub, Vite, Postman, VS Code
