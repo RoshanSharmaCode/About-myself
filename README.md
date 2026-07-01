@@ -23,7 +23,7 @@
 - 🤖 Gemini Chat App
 - 📋 Task Manager API
 - 🛍️ Amazon Storefront Clone
-
+ 
 ## 🎯 Career Goal
 I'm seeking opportunities as a **Frontend Developer** or **Full Stack Developer** where I can contribute, learn, and build impactful products.
 
