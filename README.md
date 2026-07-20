@@ -78,7 +78,7 @@ I'm seeking opportunities as a **Full Stack Developer** or **MERN Stack Develope
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/roshansharma9379
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: https://portfolio-delta-dusky-99.vercel.app
 - 📧 Email: roshansharma9379@gmail.com
 
 ---
