@@ -40,7 +40,7 @@
 - VS Code
 - Chrome DevTools
 - Vercel
-- Cloudinary
+- Cloudinary 
 
 ---
 
