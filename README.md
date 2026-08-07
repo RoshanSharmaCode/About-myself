@@ -2,85 +2,112 @@
 
 🎓 B.Tech graduate in Information Science & Engineering from Bengaluru, India.
 
-💻 I'm a **Full Stack Developer** passionate about building scalable web applications using the **MERN Stack**. I enjoy creating responsive user interfaces, designing secure RESTful APIs, and developing end-to-end solutions that solve real-world problems.
+💻 I'm a **Full Stack Developer** passionate about building secure, scalable, and user-centric web applications using the **MERN Stack**. I enjoy developing RESTful APIs, implementing authentication systems, designing responsive user interfaces, and turning ideas into production-ready applications.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 💻 Languages
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
+
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
 
 ### 🎨 Frontend
-- React.js
-- React Router
-- Context API
-- Tailwind CSS
-- Bootstrap
+
+* React.js
+* React Router
+* Context API
+* Tailwind CSS
+* Bootstrap
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Cookie-based Authentication
 
 ### 🗄️ Database
-- MongoDB
-- Mongoose
-- MySQL
+
+* MongoDB
+* Mongoose
+* MySQL
+
+### 🧪 Testing
+
+* Vitest
+* Postman
 
 ### 🛠️ Tools & Technologies
-- Git
-- GitHub
-- Vite
-- Postman
-- VS Code
-- Chrome DevTools
-- Vercel
-- Cloudinary 
+
+* Git
+* GitHub
+* Vite
+* VS Code
+* Chrome DevTools
+* Vercel
+* Cloudinary
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced TypeScript
-- System Design Fundamentals
-- Backend Performance & Scalability
-- Data Structures & Algorithms
+* System Design Fundamentals
+* Backend Performance & Scalability
+* Advanced Node.js & Express.js
+* Data Structures & Algorithms
 
 ---
 
 ## 🛠️ Featured Projects
 
 ### 🍽️ QuickDine
-A full-stack multi-restaurant table booking platform with customer, restaurant owner, and admin dashboards, secure JWT authentication, and RESTful APIs.
 
-### 🤖 Gemini AI Clone
-An AI-powered chatbot built with React and the Google Gemini API featuring chat history, prompt suggestions, and responsive UI.
+A full-stack multi-restaurant table booking platform with dedicated dashboards for customers, restaurant owners, and administrators. Built with role-based authentication, REST APIs, Cloudinary integration, and responsive React interfaces.
 
-### 🪙 Crypto Price Tracker
-A React application that displays real-time cryptocurrency prices, search, filtering, and interactive market insights using the CoinGecko API.
+### 🔐 MERN Authentication System
+
+A secure authentication system featuring JWT authentication with HTTP-only cookies, email verification using OTP, password reset workflows, protected API routes, and responsive React pages.
 
 ### 🛒 E-Commerce Platform
-A full-stack e-commerce application featuring product management, shopping cart functionality, REST APIs, and responsive user experience.
+
+A full-stack e-commerce application with product management, shopping cart functionality, RESTful APIs, backend integration, and automated testing using Vitest.
+
+### 🪙 Crypto Price Tracker
+
+A React-based cryptocurrency dashboard displaying real-time market data, interactive price charts, search, filtering, and detailed coin information powered by the CoinGecko API.
 
 ---
 
 ## 🎯 Career Goal
 
-I'm seeking opportunities as a **Full Stack Developer** or **MERN Stack Developer**, where I can contribute to impactful products, solve challenging problems, and continue growing as a software engineer.
+I'm actively seeking opportunities as a **Full Stack Developer** or **MERN Stack Developer**, where I can contribute to impactful products, collaborate with talented teams, and continue growing as a software engineer.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanSharmaCode&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanSharmaCode&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RoshanSharmaCode&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/roshansharma9379
-- 🌐 Portfolio: https://portfolio-delta-dusky-99.vercel.app
-- 📧 Email: roshansharma9379@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/roshansharma9379
+* 🌐 Portfolio: https://portfolio-delta-dusky-99.vercel.app
+* 📧 Email: [roshansharma9379@gmail.com](mailto:roshansharma9379@gmail.com)
 
 ---
 
-⭐ **Always open to collaborating on interesting projects, contributing to open source, and learning new technologies.**
+⭐ **I'm always open to collaborating on exciting projects, contributing to open source, and learning new technologies. Feel free to connect or reach out!**
