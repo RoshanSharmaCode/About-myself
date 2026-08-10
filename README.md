@@ -65,7 +65,7 @@ Full-stack shopping application with REST APIs, cart management, and automated t
 
 ### 🪙 Crypto Price Tracker
 Real-time cryptocurrency dashboard with CoinGecko API, interactive charts, search, filtering, and sorting.
-
+ 
 ---
 
 ## 📫 Connect With Me
