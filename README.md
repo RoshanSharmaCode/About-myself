@@ -74,7 +74,7 @@ Real-time cryptocurrency dashboard with CoinGecko API, interactive charts, searc
 www.linkedin.com/in/roshansharma9379
 
 🌐 Portfolio
-https://portfolio-9qyn.vercel.app
+https://portfolio-nine-gray-920skesqwk.vercel.app
 
 📧 Email
 roshansharma9379@gmail.com
