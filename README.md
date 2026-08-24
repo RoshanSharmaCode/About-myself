@@ -1,25 +1,23 @@
-# Hi there, I'm Roshan Sharma 👋
+# Hey there! I'm Roshan 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RoshanSharmaCode&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-🎓 B.Tech Graduate in Information Science & Engineering
+I'm a full-stack developer who loves turning ideas into real, working products. I recently graduated with a B.Tech in Information Science & Engineering, and I've been building web apps ever since I can remember.
 
-💻 Full Stack Developer passionate about building secure, scalable web applications using the MERN Stack.
-
-🚀 I enjoy designing REST APIs, implementing authentication systems, developing responsive user interfaces, and solving real-world problems through clean, maintainable code.
+I'm that person who gets excited about clean code, smooth user experiences, and making things work behind the scenes. Whether it's designing APIs, setting up authentication, or crafting a pixel-perfect UI, I enjoy the whole process of bringing a project to life.
 
 ---
 
-## 🚀 Tech Stack
+## 🧰 What I work with
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router)
@@ -35,7 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Tools
+### Tools I rely on daily
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -43,42 +41,41 @@
 
 ---
 
-## 🌱 Currently Learning
+## 📚 What I'm currently learning
 
-- System Design
-- Backend Performance & Scalability
-- Advanced Node.js
-- Data Structures & Algorithms
+I believe in growing every day. Right now, I'm diving deeper into:
+
+- System Design and architecture
+- Backend performance optimization and scalability
+- Advanced Node.js patterns
+- Data Structures & Algorithms (because fundamentals never go out of style)
 
 ---
 
-## 🛠️ Featured Projects
+## 💼 Projects I'm proud of
 
 ### 🍽️ QuickDine
-Full-stack multi-restaurant booking platform with role-based dashboards, JWT authentication, Cloudinary integration, and 18 REST APIs.
+A full-stack multi-restaurant booking platform. Built with role-based dashboards, JWT authentication, Cloudinary for image uploads, and 18 REST APIs. It's like OpenTable, but built from scratch.
 
 ### 🔐 MERN Authentication System
-Authentication system featuring JWT, HTTP-only cookies, email verification, OTP-based password reset, and protected routes.
+A complete auth system with JWT, HTTP-only cookies, email verification, OTP-based password reset, and protected routes. Security matters, and I made sure this one's solid.
 
 ### 🛒 E-Commerce Platform
-Full-stack shopping application with REST APIs, cart management, and automated testing using Vitest.
+A full-featured shopping app with REST APIs, cart management, and automated testing using Vitest. Because every developer should build an e-commerce site at least once.
 
 ### 🪙 Crypto Price Tracker
-Real-time cryptocurrency dashboard with CoinGecko API, interactive charts, search, filtering, and sorting.
- 
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn
-www.linkedin.com/in/roshansharma9379
-
-🌐 Portfolio
-https://portfolio-nine-gray-920skesqwk.vercel.app
-
-📧 Email
-roshansharma9379@gmail.com
+A real-time dashboard that fetches live data from the CoinGecko API. Includes interactive charts, search, filtering, and sorting — all in a clean, responsive interface.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📬 Let's connect
+
+I'm always open to chatting about tech, collaboration, or just geeking out over new tools.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/roshansharma9379)
+- 🌐 [Portfolio](https://portfolio-nine-gray-920skesqwk.vercel.app)
+- 📧 [Email](mailto:roshansharma9379@gmail.com)
+
+---
+
+Thanks for stopping by! If you made it this far, say hi — I'd love to connect. 👋
