@@ -47,7 +47,7 @@ I believe in growing every day. Right now, I'm diving deeper into:
 
 - System Design and architecture
 - Backend performance optimization and scalability
-- Advanced Node.js patterns
+- Advanced Node.js patterns 
 - Data Structures & Algorithms (because fundamentals never go out of style)
 
 ---
