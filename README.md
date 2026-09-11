@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=RoshanSharmaCode&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-I'm a full-stack developer who loves turning ideas into real, working products. I recently graduated with a B.Tech in Information Science & Engineering, and I've been building web apps ever since I can remember.
+I'm a full-stack developer who loves turning ideas into real, working products. I recently graduated with a B.E in Information Science & Engineering, and I've been building web apps ever since I can remember.
 
 I'm that person who gets excited about clean code, smooth user experiences, and making things work behind the scenes. Whether it's designing APIs, setting up authentication, or crafting a pixel-perfect UI, I enjoy the whole process of bringing a project to life.
 
