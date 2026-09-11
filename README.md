@@ -28,10 +28,16 @@ I'm that person who gets excited about clean code, smooth user experiences, and 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-338033?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Auth & Cloud
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 ### Tools I rely on daily
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -54,6 +60,9 @@ I believe in growing every day. Right now, I'm diving deeper into:
 
 ## 💼 Projects I'm proud of
 
+### 🧑‍💼 Job Portal
+A full-stack recruitment platform connecting job seekers and recruiters, with dual authentication — Clerk for job seekers, JWT + Bcrypt for recruiters. Ships with 14 REST API endpoints, rich-text job descriptions via Quill.js, resume/logo uploads through Cloudinary, and Sentry for production error monitoring. Deployed on Vercel.
+
 ### 🍽️ QuickDine
 A full-stack multi-restaurant booking platform. Built with role-based dashboards, JWT authentication, Cloudinary for image uploads, and 18 REST APIs. It's like OpenTable, but built from scratch.
 
@@ -63,9 +72,6 @@ A complete auth system with JWT, HTTP-only cookies, email verification, OTP-base
 ### 🛒 E-Commerce Platform
 A full-featured shopping app with REST APIs, cart management, and automated testing using Vitest. Because every developer should build an e-commerce site at least once.
 
-### 🪙 Crypto Price Tracker
-A real-time dashboard that fetches live data from the CoinGecko API. Includes interactive charts, search, filtering, and sorting — all in a clean, responsive interface.
-
 ---
 
 ## 📬 Let's connect
@@ -73,7 +79,7 @@ A real-time dashboard that fetches live data from the CoinGecko API. Includes in
 I'm always open to chatting about tech, collaboration, or just geeking out over new tools.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/roshansharma9379)
-- 🌐 [Portfolio](https://portfolio-nine-gray-920skesqwk.vercel.app)
+- 🌐 [Portfolio](https://roshansharmacode.github.io)
 - 📧 [Email](mailto:roshansharma9379@gmail.com)
 
 ---
