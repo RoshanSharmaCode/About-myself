@@ -84,4 +84,4 @@ I'm always open to chatting about tech, collaboration, or just geeking out over 
 
 ---
 
-Thanks for stopping by! If you made it this far, say hi — I'd love to connect. 👋
+Thanks for stopping by! If you made it this far, say hi - I'd love to connect. 👋
