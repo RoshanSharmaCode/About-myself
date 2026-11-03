@@ -10,7 +10,7 @@ I'm that person who gets excited about clean code, smooth user experiences, and 
 
 ---
 
-## 🧰 What I work with
+## 🧰 What I work with 
 
 ### Languages 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
