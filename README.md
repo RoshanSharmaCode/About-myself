@@ -88,16 +88,17 @@ An authentication application built to explore secure user authentication and ac
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Bcrypt, Nodemailer.
 
-### 🛒 E-Commerce Platform
+### 💰 Expense Tracker
 
-A full-stack shopping application featuring product management and cart functionality.
+A full-stack expense tracking application with secure user authentication, transaction management, and financial summaries.
 
-- Implemented REST APIs.
-- Built shopping cart functionality.
-- Practiced backend integration and application testing.
-- Used Vitest for automated testing.
+- Developed REST APIs for managing income and expense transactions.
+- Implemented JWT-based authentication and protected routes.
+- Added authorization checks to ensure users can access and manage only their own transactions.
+- Built dashboard APIs to provide income, expense, and financial overview data.
+- Wrote automated API tests using Vitest, Supertest, and MongoMemoryServer.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Vitest.
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, Vitest, Supertest.
 
 ---
 
