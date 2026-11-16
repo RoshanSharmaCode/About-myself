@@ -5,7 +5,7 @@
 I'm a recent Information Science & Engineering graduate based in Bengaluru, India, interested in building reliable backend systems and complete web applications.
 
 I enjoy working with Node.js, designing REST APIs, managing databases, implementing authentication and authorization, and connecting backend services with React applications.
-
+ 
 My primary interest is backend engineering, but I also enjoy working across the full stack and understanding how different parts of an application work together.
 
 <p align="left">
@@ -59,7 +59,7 @@ A recruitment platform connecting job seekers and recruiters through separate au
 
 - Implemented authentication using Clerk for job seekers and JWT with Bcrypt for recruiters.
 - Developed REST API endpoints for job and company management.
-- Integrated Quill.js for rich-text job descriptions.
+- Integrated Quill.js for rich-text job descriptions. 
 - Used Cloudinary for resume and company logo uploads.
 - Integrated Sentry for error monitoring.
 
