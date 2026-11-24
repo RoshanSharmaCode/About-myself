@@ -32,7 +32,7 @@ My primary interest is backend engineering, but I also enjoy working across the 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-338033?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-338033?style=for-the-badge&logo=letsencrypt&logoColor=white) 
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,7 +53,7 @@ My primary interest is backend engineering, but I also enjoy working across the 
 
 ## 🚀 Featured Projects
 
-### 🧑‍💼 Job Portal — Full-Stack Recruitment Platform
+### 🧑‍💼 Job Portal — Full-Stack Recruitment Platform 
 
 A recruitment platform connecting job seekers and recruiters through separate authentication flows and role-based functionality.
 
@@ -64,9 +64,9 @@ A recruitment platform connecting job seekers and recruiters through separate au
 - Integrated Sentry for error monitoring.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Clerk, JWT, Cloudinary, Sentry.
-
+ 
 ### 🍽️ QuickDine — Multi-Restaurant Booking Platform
-
+ 
 A full-stack restaurant booking application with separate dashboards and functionality for different user roles.
 
 - Implemented role-based dashboards.
